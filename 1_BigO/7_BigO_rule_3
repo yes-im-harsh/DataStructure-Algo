@@ -1,0 +1,13 @@
+//Rule 3: Different terms for Input
+
+function compressTwoBoxesTwice(boxes1, boxes2) {
+  boxes.forEach(function (boxes1) {
+    console.log(boxes);
+  });
+
+  boxes.forEach(function (boxes2) {
+    console.log(boxes);
+  });
+}
+
+// O(a+b) Different terms for Input

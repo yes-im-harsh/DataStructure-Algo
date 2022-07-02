@@ -1,0 +1,8 @@
+Finding Complexity:
+
+Rule Book
+
+Rule1: Worst Case.
+ Rule2: Remove Constants.
+  Rule3: Different Terms For Input
+   Rule4: Drop Non Dominants
