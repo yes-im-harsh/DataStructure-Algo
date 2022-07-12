@@ -18,14 +18,12 @@ class LinkedList {
       value: value,
       next: null,
     };
+
     this.tail = this.head;
     this.length = 1;
   }
-  append(value) {
-    //Code here
-  }
 }
 
-let myLinkedList = new LinkedList(10);
-myLinkedList.append(5);
-myLinkedList.append(16);
+const myLinkedList = new LinkedList(10);
+
+console.log(myLinkedList);
